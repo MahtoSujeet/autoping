@@ -8,6 +8,7 @@ PING_INTERVAL = 10 # In Minutes
 urls = [
     'https://mbape-backend.onrender.com',
     'https://www.app.mbape.xyz',
+    'https://autoping.onrender.com',
 ]
 
 async def ping_url(session, url):
