@@ -9,6 +9,7 @@ urls = [
     'https://mbape-backend.onrender.com',
     'https://www.app.mbape.xyz',
     'https://autoping.onrender.com',
+    'https://grand-app.onrender.com/',
 ]
 
 async def ping_url(session, url):
